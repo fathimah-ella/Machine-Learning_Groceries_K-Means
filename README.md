@@ -8,7 +8,7 @@ Data analysis and visualization are performed in **Python** and **Tableau** to p
 ---
 
 ## Dataset
-The dataset used is [`grocery_sales.db`] (https://drive.google.com/file/d/1HeRKLWVMRnL0FaGlStWT6SZwYZUjmx2f/view), containing transactional data from **2015–2020**.  
+The dataset used is [`grocery_sales.db`](https://drive.google.com/file/d/1HeRKLWVMRnL0FaGlStWT6SZwYZUjmx2f/view), containing transactional data from **2015–2020**.  
 It includes detailed information such as customer ID, order date, sales, discount, profit, and product category from a retail store network.
 
 **Source:** Internal project dataset (cleaned and prepared for academic analysis)
